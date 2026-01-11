@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
-### 🌐 Connect with Me
+### 🔗 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/erjona-kalari/" target="_blank">
@@ -26,10 +26,10 @@
          alt="LinkedIn" />
   </a>
   <a href="mailto:erjona.kalari@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         width="40"
-         alt="Email" />
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
+       width="40"
+       alt="Gmail" />
+</a>
 </p>
 
 
