@@ -1,10 +1,10 @@
-## Hi there 👋
+##  Welcome
 
 <p align="center">
   <img src="assets/updated banner.gif" alt="Animated GitHub banner" />
 </p>
 
-### 🛠️ Languages and Tools
+### 💡 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
