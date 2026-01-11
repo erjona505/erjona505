@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="assets/github.gif" alt="Animated GitHub banner" />
+</p>
 <!--
 **erjona505/erjona505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
