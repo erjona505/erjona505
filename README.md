@@ -17,6 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
+### Personal Website 
+https://erjona505.github.io/personal-website/
+
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -32,4 +35,3 @@
 </a>
 </p>
 
-### Personal Website: https://erjona505.github.io/personal-website/
